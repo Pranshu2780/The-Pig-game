@@ -1,0 +1,149 @@
+body{
+    background-image : url(pig.jpg);
+ }
+
+.aut{
+    border-radius : 50%;
+    margin-top : 3px;
+    margin-right : 40px;
+    float : right;
+}
+
+.levi{
+    float : right;
+    margin-right : 10px;
+}
+
+.imgage{
+     position : absolute;
+     margin : 80px 10px 50px 348px; 
+}
+
+.wrap{
+      top : 0px;
+      padding : 6px 8px;
+      margin : 0px 0px;
+      border : none;
+      background-color : black;
+      color : goldenrod;
+      cursor : pointer;
+}
+
+.wrap:hover{
+      background-color : brown;
+}
+
+.container{
+      max-width : 900px;
+      margin : 80px auto 50px auto;
+      display : flex;
+      justify-content : space-between;
+      background-color : rgb(124, 248, 113);
+}
+
+.over{
+      margin : 10px 90px;
+      padding : 20px;
+      flex : 1;
+}
+
+.active
+{
+      background-color : rgb(49, 23, 23);
+}
+
+.rew{
+      background-color : rgb(99, 176, 228);
+      border : none;
+      padding : 8px;
+      text-align : center;
+      font-size : 16px;
+      cursor : pointer;
+      border-radius : 10px;
+}
+
+.rew:hover {
+      background-color : grey;
+      color : white;
+  }
+  
+.btn{
+      position : absolute;
+      margin : 20px 30px 40px 372px;
+      color : rgb(201, 59, 7);
+}
+
+.btn1{
+      position : absolute;
+      margin : 298px 30px 40px 372px;
+      color : rgb(201, 59, 7);
+}
+
+.btn2{
+       position : absolute;
+       margin : 338px 30px 40px 372px;
+       color : rgb(201, 59, 7);
+}
+
+.Player-0{
+       flex : 1;
+       font-size : 40px;
+       text-transform : uppercase;
+       color : rgb(209, 63, 10);
+}
+
+.Player-1{
+       flex : 1;
+       text-size-adjust : center;
+       font-size : 40px;
+       text-transform : uppercase;
+       color : rgb(209, 63, 10);
+}
+
+.Current-1{
+       flex : 1;
+       padding : 50px;
+       text-size-adjust : center;
+       font-size : 45px;
+       color : rgba(123, 9, 216, 0.692);
+}
+
+.Current-2{
+       flex : 1;
+       padding : 50px;
+       text-size-adjust : center;
+       font-size : 45px;
+       color : rgba(123, 9, 216, 0.692);
+}
+
+.Score-0{
+       padding : 40px;
+       font-size : 15px;
+       color : red;
+}
+
+.Score-1{
+       padding : 40px;
+       font-size : 15px;
+       color : red;    
+}
+
+.c-0{
+       font-size : 25px;
+       color : rgba(123, 9, 216, 0.692);
+       margin : 0px 15px;
+}
+.c-1{
+       font-size : 25px;
+       color : rgba(123, 9, 216, 0.692);
+       margin : 0px 15px;
+}
+
+.Rules{
+      color : blue;
+      font-size : 20px;
+ }
+
+ .Game{
+      color : black;
+ }
