@@ -2,6 +2,8 @@
 
 This game was first played by John Scame in 1945.
 
+### Stacks
+HTML/CSS, Javascript
 ### Rules
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold".
